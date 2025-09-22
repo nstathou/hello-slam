@@ -64,7 +64,7 @@ You can run the notebooks in different environments depending on your preference
 4. If the notebook needs extra packages, install them at the top of the notebook, for example:
 
     ```bash
-    !pip install numpy matplotlib scip
+    !pip install numpy matplotlib scipy
 
 ---
 

@@ -1,6 +1,6 @@
 # 🗺️ A brief intro to SLAM with code
 
-This repository contains interactive **Jupyter notebooks** that introduce the fundamentals of **Simultaneous Localization and Mapping (SLAM)**. The notebooks provide step-by-step implementations of **Bayes filters, Kalman filters, particle filters, and graph-based methods**, combining theoretical explanations with Python code.  
+This repository contains interactive **Jupyter notebooks** that introduce the fundamentals of **Simultaneous Localization and Mapping (SLAM)**. The notebooks provide step-by-step implementations of **Bayes Filters, Kalman Filters, Particle Filters, and Graph-based methods**, combining theoretical explanations with Python code.  
 
 The material is structured as a **three-lecture mini-course**. It only covers a small portion of the rich SLAM literature and is intended as a beginner-friendly introduction.
 

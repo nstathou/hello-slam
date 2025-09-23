@@ -4,6 +4,8 @@ This repository contains interactive **Jupyter notebooks** that introduce the fu
 
 The material is structured as a **three-lecture mini-course**. It only covers a small portion of the rich SLAM literature and is intended as a beginner-friendly introduction.
 
+**Raw Motion and Observation Models vs. EKF-SLAM**
+
 <img src="./notebooks/figures/models_demo.gif" width="49%" height="50%"/> <img src="./notebooks/figures/ekf_demo.gif" width="49%" height="50%"/>
 
 ---

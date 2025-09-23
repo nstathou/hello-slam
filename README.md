@@ -50,9 +50,10 @@ You can run the notebooks in different environments depending on your preference
    ```bash
    pip install jupyter-core
    
-5. Launch JupyterLab:
+5. Go into the folder and launch JupyterLab:
 
     ```bash
+    cd hello-slam
     jupyter lab
 
 6. Open any notebook `(.ipynb)` and run the cells.

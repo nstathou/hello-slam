@@ -46,12 +46,16 @@ You can run the notebooks in different environments depending on your preference
 
 3. Install dependencies (same as above).
 
-4. Launch JupyterLab:
+4. Install Jupyter:
+   ```bash
+   pip install jupyter-core
+   
+5. Launch JupyterLab:
 
     ```bash
     jupyter lab
 
-5. Open any notebook `(.ipynb)` and run the cells.
+6. Open any notebook `(.ipynb)` and run the cells.
 
 ### 🔹 Option 3: Google Colab (Optional)
 

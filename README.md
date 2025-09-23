@@ -4,7 +4,7 @@ This repository contains interactive **Jupyter notebooks** that introduce the fu
 
 The material is structured as a **three-lecture mini-course**. It only covers a small portion of the rich SLAM literature and is intended as a beginner-friendly introduction.
 
-![model_demo](./notebooks/figures/models_demo.gif)
+![model_demo](./notebooks/figures/models_demo.gif) ![model_demo](./notebooks/figures/ekf_demo.gif)
 
 ---
 

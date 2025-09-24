@@ -112,3 +112,7 @@ The course is organized into modules:
 This material is heavily inspired by the **[SLAM Course](https://www.youtube.com/playlist?list=PLgnQpQtFTOGQrZ4O5QzbIHgl3b1JHimN_)** by *Prof. Cyrill Stachniss* and the **[Probabilistic Robotics](https://mitpress.mit.edu/9780262201629/probabilistic-robotics/)** book by *Sebastian Thrun, Wolfram Burgard, and Dieter Fox*.  
 
 For additional references and suggested literature, please check the `0_intro.ipynb` notebook.
+
+## 📬 Contact
+
+For questions, feedback, or collaboration, feel free to reach out at **niksta@ltu.se**

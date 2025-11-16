@@ -97,7 +97,7 @@ The course is organized into modules:
 - `1_grid_maps.ipynb` – Occupancy grid mapping.  
 - `2_particle_filter.ipynb` – Monte Carlo localization.  
 - `3_fast_slam.ipynb` – FastSLAM.  
-- `4_grid_slam_rb_pf.ipynb` – Rao–Blackwellized particle filter for SLAM.
+- `4_grid_based_slam.ipynb` – Rao-Blackwellized particle filter for SLAM.
 
 ### **3. Least Squares / Graph-based SLAM**
 

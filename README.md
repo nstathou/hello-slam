@@ -103,7 +103,7 @@ The course is organized into modules:
 
 - `1_least_squares.ipynb` – Nonlinear least-squares estimation.  
 - `2_least_squares_slam.ipynb` – Least-squares formulation of SLAM.  
-- `3_graph_slam.ipynb` – Graph-based SLAM.
+- `3_landmark_graph_slam.ipynb` – Landmark Graph-based SLAM.
 
 ---
 

@@ -4,9 +4,10 @@ This repository contains interactive **Jupyter notebooks** that introduce the fu
 
 The material is structured as a **three-lecture mini-course**. It only covers a small portion of the rich SLAM literature and is intended as a beginner-friendly introduction.
 
-Example in `pygame`: **Raw Motion and Observation Models vs. EKF-SLAM**
+Example in `pygame`: **Raw Motion and Observation Models vs. EKF-SLAM vs. MCL vs. Grid-FastSLAM**
 
 <img src="./notebooks/figures/models_demo.gif" width="49%" height="50%"/> <img src="./notebooks/figures/ekf_demo.gif" width="49%" height="50%"/>
+<img src="./notebooks/figures/particle_filter.gif" width="49%" height="50%"/> <img src="./notebooks/figures/grid_rb_pf.gif" width="49%" height="50%"/>
 
 ---
 

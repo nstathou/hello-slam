@@ -63,7 +63,31 @@ You can run the notebooks in different environments depending on your preference
 
 6. Open any notebook `(.ipynb)` and run the cells.
 
-### 🔹 Option 3: Google Colab (Optional)
+### 🔹 Option 3: Docker + JupyterLab (Optional)
+
+1. Clone the repository (same as above).
+
+2. Install [Docker](https://docs.docker.com/engine/install/) or use the install script
+
+```bash
+# Download the script and verify its contents
+curl -fsSL https://get.docker.com -o install-docker.sh
+cat install-docker.sh
+# Dry-run the installation to see what steps it performs
+sh install-docker.sh --dry-run
+# Actually install docker and docker engine
+sudo sh install-docker.sh
+```
+
+3. Build and run the dockerized notebook environment. From this directory 
+
+```bash
+./start-notebook.sh
+```
+
+4. Open any notebook `(.ipynb)` and run the cells.
+
+### 🔹 Option 4: Google Colab (Optional)
 
 1. Download this repository as a .zip file from GitHub and extract it locally.
 
